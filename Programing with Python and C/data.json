@@ -1,0 +1,14 @@
+{
+    "user": {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "details": {
+            "age": 25,
+            "location": "New York"
+        }
+    },
+    "settings": {
+        "theme": "dark",
+        "notifications": true
+    }
+}

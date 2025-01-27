@@ -1,0 +1,7 @@
+[2025-01-25 10:00:00] INFO: Server started successfully.
+[2025-01-25 10:05:23] ERROR: Database connection failed.
+[2025-01-25 10:10:45] WARNING: High memory usage detected.
+[2025-01-25 10:15:30] ERROR: Database connection failed.
+[2025-01-25 10:20:15] CRITICAL: Disk space exhausted.
+[2025-01-25 10:25:50] ERROR: Failed to authenticate user.
+[2025-01-25 10:30:00] INFO: Server shut down.
